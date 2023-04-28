@@ -1,2 +1,2 @@
 # JS-Advanced
-JS Advanced Task from my education at SoftUni
+JS Advanced Course Tasks from my education at SoftUni
